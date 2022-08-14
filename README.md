@@ -2,6 +2,9 @@
 Tässä harjoittelussa olen tutustunut Python kieleen ja GoPiGo ohjelmistoon.
 Repositoriossa löytyy Python koodit. 
 
+## Esittelyvideo
+https://youtube.com/shorts/YoEg2yxKifI
+
 ## DistanceDrive.py 
 Koodi, joka ohja GoPiGo robotin. Robotti tunnistaa pituus etäpuolella ja laskea omat koordinadit. Jos robotti tulee liian lähellä objektilla(esim. seinä), se alkaa hidastaa ja sen jälkeen kääntyy 90 astetta.
 
